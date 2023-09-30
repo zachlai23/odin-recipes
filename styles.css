@@ -1,3 +1,23 @@
+.Title{
+    background-color: lightblue;
+    padding:8px;
+    margin: 8px;
+    border: 8px solid black;
+}
+
+.links{
+    background-color: lightblue;
+    padding: 8px;
+    border: 8px solid black;
+    margin: 8px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.single{
+    padding:8px;
+}
+
+
 .Fried{
     color:brown;
     font-family: "Georgia",sans-serif;
